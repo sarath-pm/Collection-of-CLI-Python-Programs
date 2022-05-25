@@ -1,4 +1,4 @@
-##Start your Python Journey
+# Start your Python Journey
 
 I learnt Python from scratch using the free materials listed below, which you may use to begin your Python journey :
 - [Python Full Course for Beginners by Programming with Mosh (Youtube)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
@@ -7,12 +7,12 @@ I learnt Python from scratch using the free materials listed below, which you ma
 - [HackerRank Python challenges allow you to improve your python skills while also earning a free Python certificate.](https://www.hackerrank.com/domains/python)
 
 
- ###A simple roadmap to Python 
+ ## A simple roadmap to Python 
  
 ![](https://roadmap.sh/roadmaps/python.png)
 >Image credits goes to [roadmap.sh](www.roadmap.sh)
 
-### ⚙️ Connect with Me
+## ⚙️ Connect with Me
 
 <p align="center">
 <a href="mailto:sarath2375@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
