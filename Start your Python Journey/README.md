@@ -1,4 +1,5 @@
 ##Start your Python Journey
+
 I learnt Python from scratch using the free materials listed below, which you may use to begin your Python journey :
 - [Python Full Course for Beginners by Programming with Mosh (Youtube)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 - [Learn Python in 5 Hours by TechWorld with Nana (Youtube)](https://www.youtube.com/watch?v=t8pPdKYpowI)
@@ -7,10 +8,11 @@ I learnt Python from scratch using the free materials listed below, which you ma
 
 
  ###A simple roadmap to Python 
+ 
 ![](https://roadmap.sh/roadmaps/python.png)
 >Image credits goes to [roadmap.sh](www.roadmap.sh)
 
-## ⚙️ Connect with Me
+### ⚙️ Connect with Me
 
 <p align="center">
 <a href="mailto:sarath2375@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
