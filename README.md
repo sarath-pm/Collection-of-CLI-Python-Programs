@@ -13,6 +13,9 @@ Visit [here](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/tree/m
 4. [Shrink URL](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/Shrink%20URL.py)
 5. [QR Code Generator](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/QR%20Code%20generator.py)
 6. [Live Mouse Location Tracking](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/Live%20Mouse%20locator.py)
+7. [Convert JPG to PDF](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/Convert%20JPG%20to%20PDF.py)
+8. [Image to Pencil Sketch](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/Img%20to%20Pencil%20Sketch.py)
+9. [Cartooning an Image](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/Cartooning%20an%20Image.py)
 
 
 ## ⚙️ Connect with Me
