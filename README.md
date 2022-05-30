@@ -7,16 +7,19 @@ Visit [here](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/tree/m
 
 ## List of Python Programs
 
-1. [Find Wifi Password](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/Find%20Wifi%20Password.py)
+1. [View your saved/connected Wifi Password](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/Find%20Wifi%20Password.py)
 2. [Tic Tac Toe Game](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/Tic%20Tac%20Toe%20game.py)
 3. [Grep all URL's in a Webpage](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/Grep%20all%20URL's%20in%20a%20Webpage.py)
-4. [Shrink URL](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/Shrink%20URL.py)
+4. [Shrink any URL](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/Shrink%20URL.py)
 5. [QR Code Generator](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/QR%20Code%20generator.py)
 6. [Live Mouse Location Tracking](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/Live%20Mouse%20locator.py)
 7. [Convert JPG to PDF](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/Convert%20JPG%20to%20PDF.py)
 8. [Image to Pencil Sketch](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/Img%20to%20Pencil%20Sketch.py)
 9. [Cartooning an Image](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/Cartooning%20an%20Image.py)
-
+10. [Calculate Age in years](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/Calculate%20Age.py)
+11. [Rolling Dice](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/Rolling_a_dice.py)
+12. [Stone Paper Scissors Game](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/Stone_Paper_Scissor.py) 
+13. [Directory Tree View]()
 
 ## ⚙️ Connect with Me
 
