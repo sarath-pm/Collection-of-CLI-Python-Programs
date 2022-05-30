@@ -47,7 +47,7 @@ Enhance your python skills by creating various python projects of your own choic
 ### Python Roadmap Flowchart
 <img src="https://roadmap.sh/roadmaps/python.png" alt="roadmap" width="500"/>
 
->Image credits goes to [roadmap.sh](www.roadmap.sh)
+>Image credits goes to [roadmap.sh](https://roadmap.sh/)
 
 
 ## ⚙️ Connect with Me
