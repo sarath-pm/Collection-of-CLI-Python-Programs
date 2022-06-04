@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/originals/ca/00/60/ca0060f3414e6e20b75983acddafad53.gif" width="22"> Collection of Python Programs
+# <img src="https://i.pinimg.com/originals/ca/00/60/ca0060f3414e6e20b75983acddafad53.gif" width="23"> Collection of Python Programs
 
 Welcome to this GitHub repository, where you can find a collection of simple Python programs.
 
@@ -6,7 +6,7 @@ Visit [here](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/tree/m
 
 <br>
 
-## List of Python Programs
+## <img src="https://user-images.githubusercontent.com/86669668/171820956-cf171296-cc01-4827-ac4a-45ff3f91ff13.gif" width="15"/> List of Python Programs
 
 1. [View your saved/connected Wifi Password](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/Find%20Wifi%20Password.py)
 2. [Tic Tac Toe Game](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/Tic%20Tac%20Toe%20game.py)
@@ -24,10 +24,11 @@ Visit [here](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/tree/m
 14. [Block & Unblock Websites](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/blob/main/block_unblock_website.py)
 15. [Zip and Unzip files](https://github.com/sarath-pm/Collection-of-Python-Programs/blob/main/Zip%20%26%20unzip%20files.py)
 16. [Download offline webpages](https://github.com/sarath-pm/Collection-of-Python-Programs/blob/main/download_offline_webpage.py)
+17. [Rename all files](https://github.com/sarath-pm/Collection-of-Python-Programs/blob/main/Rename_all_files.py)
 
 <br>
 
-## ⚙️ Connect with Me
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> Connect with Me
 
 <p align="center">
 <a href="mailto:sarath2375@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
