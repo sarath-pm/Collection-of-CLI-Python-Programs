@@ -27,6 +27,7 @@ Visit [here](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/tree/m
 17. [Rename all files](https://github.com/sarath-pm/Collection-of-Python-Programs/blob/main/Rename_all_files.py)
 18. [Get weather information](https://github.com/sarath-pm/Collection-of-Python-Programs/blob/main/Weather_information.py)
 19. [Screenshot](https://github.com/sarath-pm/Collection-of-Python-Programs/blob/main/take_screenshot.py)
+20. [BMI calculator](https://github.com/sarath-pm/Collection-of-Python-Programs/blob/main/BMI_calculator.py)
 
 <br>
 
