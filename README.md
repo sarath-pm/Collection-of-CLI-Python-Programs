@@ -29,6 +29,7 @@ Visit [here](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/tree/m
 19. [Screenshot](https://github.com/sarath-pm/Collection-of-Python-Programs/blob/main/take_screenshot.py)
 20. [BMI calculator](https://github.com/sarath-pm/Collection-of-Python-Programs/blob/main/BMI_calculator.py)
 21. [Generate Random Password](https://github.com/sarath-pm/Collection-of-Python-Programs/blob/main/Generate_Random_Password.py)
+22. [Generate Random Token](https://github.com/sarath-pm/Collection-of-Python-Programs/blob/main/Generate_Random_Token.py)
 
 <br>
 
