@@ -1,6 +1,6 @@
 # <img src="https://i.pinimg.com/originals/ca/00/60/ca0060f3414e6e20b75983acddafad53.gif" width="23"> Collection of Python Programs
 
-Welcome to this GitHub repository, where you can find a collection of simple Python programs.
+Welcome to this GitHub repository, where you can find a collection of CLI Python programs.
 
 Visit [here](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/tree/main/Start%20your%20Python%20Journey) to begin your Python journey from scratch for free.
 
@@ -33,6 +33,7 @@ Visit [here](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/tree/m
 23. [Guessing Game](https://github.com/sarath-pm/Collection-of-Python-Programs/blob/main/guessing_game.py)
 24. [Hangman Game](https://github.com/sarath-pm/Collection-of-Python-Programs/blob/main/hangman_game.py)
 25. [Tic Tac Toe AI Game](https://github.com/sarath-pm/Collection-of-Python-Programs/blob/main/tic_tac_toe_ai.py)
+26. [Calculator](https://github.com/sarath-pm/Collection-of-CLI-Python-Programs/blob/main/calculator.py)
 
 <br>
 
