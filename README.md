@@ -34,6 +34,7 @@ Visit [here](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/tree/m
 24. [Hangman Game](https://github.com/sarath-pm/Collection-of-Python-Programs/blob/main/hangman_game.py)
 25. [Tic Tac Toe AI Game](https://github.com/sarath-pm/Collection-of-Python-Programs/blob/main/tic_tac_toe_ai.py)
 26. [Calculator](https://github.com/sarath-pm/Collection-of-CLI-Python-Programs/blob/main/calculator.py)
+27. [Send Mail](https://github.com/sarath-pm/Collection-of-CLI-Python-Programs/blob/main/send_email.py)
 
 <br>
 
